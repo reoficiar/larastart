@@ -12,10 +12,6 @@
     "devDependencies": {
         "axios": "^0.18",
         "bootstrap": "^4.0.0",
-<<<<<<< HEAD
-        "cross-env": "^5.1",
-=======
->>>>>>> 98e558d5d8d10ac61c3d3cd65c9f920170d2b8e4
         "jquery": "^3.2",
         "laravel-mix": "^2.0",
         "lodash": "^4.17.5",
@@ -24,11 +20,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.6.0",
-<<<<<<< HEAD
-        "admin-lte": "^3.0.0-alpha.2"
-=======
         "admin-lte": "^3.0.0-alpha.2",
         "vue-router": "^3.0.2"
->>>>>>> 98e558d5d8d10ac61c3d3cd65c9f920170d2b8e4
     }
 }
