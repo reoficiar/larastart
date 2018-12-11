@@ -4,11 +4,29 @@
 
 // Variables
 @import 'variables';
+<<<<<<< HEAD
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+=======
+$fa-font-path: "../webfonts";
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+>>>>>>> 98e558d5d8d10ac61c3d3cd65c9f920170d2b8e4
 
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
+<<<<<<< HEAD
+=======
+
+.router-link-exact-active {
+   background-color: #3f51b5;
+   color: #fff !important;
+}
+>>>>>>> 98e558d5d8d10ac61c3d3cd65c9f920170d2b8e4
